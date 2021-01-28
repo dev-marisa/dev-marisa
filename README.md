@@ -1,4 +1,11 @@
-### Hi there 👋
+```js
+{ name:     "Marisa Goode",
+  pronouns: ["she", "her", "hers"],
+  email:    "mgoode@codingdojo.com",
+  company:  "Coding Dojo",
+  position: "Lead Instructor",
+  location: "Arlington, VA" }
+```
 
 <!--
 **marisa-goode/marisa-goode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
