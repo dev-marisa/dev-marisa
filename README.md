@@ -5,6 +5,9 @@
   company:  "Coding Dojo",
   position: "Lead Instructor",
   location: "Arlington, VA" }
+
+// CodingDojo.com
+// Transforming lives through programming literacy.
 ```
 
 <!--
