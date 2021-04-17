@@ -3,7 +3,7 @@
   pronouns: ["she", "her", "hers"],
   email:    "mgoode@codingdojo.com",
   company:  "Coding Dojo",
-  position: "Curriculum Designer",
+  position: "Curriculum Developer",
   location: "Arlington, VA" }
 
 // CodingDojo.com
